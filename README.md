@@ -40,7 +40,7 @@ We will use the public dataset FitBit Fitness Tracker Data from Kaggle, a Public
 
 Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. Individual reports can be parsed by export session ID (column A) or timestamp (column B). Variation between output represents use of different types of Fitbit trackers and individual tracking behaviors / preferences.
 
-Download and unzip the 18 CSV documents and began exploration
+[Download](https://www.kaggle.com/arashnic/fitbit) and unzip the 18 CSV documents and began exploration
 
 This data has limited insight due to only being thirty people used for the survey. Also the demographics of this group is anonymous. and participant’s age, gender, and lifestyle are unknown. Bellabeats is a health tracking company targeted for women so data given specifically by women with more sample size would have been ideal for this analysis. Initially we can check the data in spreadsheets and then upload them to suitable program. Here R Studio will be used to complete this analysis.
 
