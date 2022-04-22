@@ -144,10 +144,10 @@ Recommendations for the Future data collection & analysis:
 Recommendations for marketing the bellabeats product base on leaf & time but both connected to the app:
 
 - The users must be educated more regarding the importance of physical activity and tracking them in their daily life so they can improve or maintain them.They need to be aware about the benefit of tracking their physical activity so that they use the device or product more.
-- Bellabeat product or services must send alert to the users Whenever the user is found to be sitting idle or inactive for a longer period of time, the app must alert the user to take a walk or do some sort of a physical activity. update or notify user frequently for the activities which is being tracked and also if there is any goal achieved or missed.
+- Bellabeat product or services must send alert to the users Whenever the user is found to be sitting idle or inactive for a longer period of time, the app must alert the user to take a walk or do some sort of a physical activity. update or notify user frequently for the activities which is being tracked and also if there is any goal achieved or missed
 - Notify the users with “Alarm” feature for water intakes and hydration level, Steps to complete and also notify if user is in bed but not asleep for long time.
-- Bellabeat must include features like BMI notification, also allow user’s to track their Menstrual cycles.
+- Bellabeat must include features like BMI notification, also allow user’s to track their Menstrual cycles
 - Allow users to add goals to their apps and devices or product can suggest goals too. and if they are achieved, some kind of rewards can be given to users.
-- Bellabeat also can start a counseling service for the users to guide them to achieve their goal.
+- Bellabeat also can start a counseling service for the users to guide them to achieve their goal
 
 
